@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @enrytears
+- 👋 Hi, I’m @henrytears
 - 👀 I’m interested in Learning something that are interesting to me
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking for a friendly and kind friend who can help me out
